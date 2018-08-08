@@ -10,6 +10,18 @@ About
 
 This theme was based on the Nintendo Switch theme for Launchbox by Grila. I decided to make a version for EmulationStation
 
+Images
+------
+
+*Gameboy System View*
+![Image](https://i.imgur.com/huRQEfs.png)
+
+*SNES Detailed View*
+![Image](https://i.imgur.com/ssbOG4B.png)
+
+*Gameboy Basic View*
+![Image](https://i.imgur.com/xAzeDX9.png)
+
 
 Artwork
 -------
