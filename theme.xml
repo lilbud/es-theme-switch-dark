@@ -34,8 +34,8 @@ based on:       Switch Theme for Launchbox by Grila
 			<text>${system.fullName}</text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.743 0.015</size>
-			<pos>0.063 0.27</pos>
-			<color>00fec8</color>
+			<pos>0.063 0.23</pos>
+			<color>3aa5ab</color>
 			<origin>0 0</origin>
 			<fontPath>./assets/Oxygen-Regular.ttf</fontPath>
 			<fontSize>0.04</fontSize>
@@ -43,11 +43,12 @@ based on:       Switch Theme for Launchbox by Grila
 		</text>
 		
 		<image name="arrowblock" extra="true">
-			<pos>0.03 0.255</pos>
+			<pos>0.03 0.22</pos>
 			<path>./assets/arrow_block.svg</path>
 			<size>0.023 0.047</size>
-			<color>00fec8</color>
-		</image>	
+			<origin>0 0</origin>
+			<color>3aa5ab</color>
+		</image>		
 
 	</view>
 
