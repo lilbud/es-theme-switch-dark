@@ -111,7 +111,7 @@ based on:       Switch Theme for Launchbox by Grila
 		</image>
 		
 		<textlist name="gamelist">
-			<selectedColor>3750eb</selectedColor>
+			<selectedColor>3aa5ab</selectedColor>
 			<primaryColor>dbdbdb</primaryColor>
 			<secondaryColor>dbdbdb</secondaryColor>
 			<selectorColor>00000000</selectorColor>
